@@ -11,7 +11,7 @@ Example app that demonstrates how to run a Flask app with a free GPU using Googl
 
 - Open the Colab for quito96: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quito96/flask-gpu-app/blob/main/notebook.ipynb)
 
-- Go to [ngrok.com](ngrok.com), get a free API token, and in the Colab replace`YOUR-AUTHTOKEN-HERE` with the token.
+- Go to [ngrok.com](https://ngrok.com), get a free API token, and in the Colab replace`YOUR-AUTHTOKEN-HERE` with the token.
 
 - Set the runtime to GPU
 
